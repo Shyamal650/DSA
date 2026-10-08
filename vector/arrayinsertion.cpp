@@ -7,7 +7,7 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]);
 
     for (int i = 0; i < n; i++) {
-        cout << arr[i] << " "; asbbad
+        cout << arr[i] << " ";
     }
 
     arr[3] = 55;
